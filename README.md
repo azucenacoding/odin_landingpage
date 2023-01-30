@@ -7,19 +7,22 @@ Thank you for stopping by.
 
 # Image credits:
 1. Hero Image:
--Bine Zarabec, @binezarabec
+- Bine Zarabec, @binezarabec
 
 2. Landing images:
--The vending machine closeup - Necip Duman @necipdumanphoto, Pexels
--The blue heart spraypainted - Cottonbro Studios @cottonbro, Pexels
--The shoes on the patio - Julie Aagaard @julie.aagaard, Pexels
--The map and coffee cup - Uğurcan Özmen @ugurcannozmen, Pexels
+- The vending machine closeup Necip Duman @necipdumanphoto, Pexels
+
+- The blue heart spraypainted Cottonbro Studios @cottonbro, Pexels
+
+- The shoes on the patio Julie Aagaard @julie.aagaard, Pexels
+
+- The map and coffee cup Uğurcan Özmen @ugurcannozmen, Pexels
 
 
 # Self reflection
 
--Start date: 1/28
--Finish date: 1/30
+- Start date: 1/28
+- Finish date: 1/30
 
 Hardest section(s): The landing container with the 4 pictures, the quote section, and the call to action section in terms of remembering how to use flexbox + CSS to make them work. I think I got it down though!
 
