@@ -5,7 +5,7 @@ Thank you for stopping by.
 
 <!-- Image credits -->
 
-Image credits:
+<p>Image credits:
 Hero Image:
 Bine Zarabec, @binezarabec
 
@@ -14,10 +14,11 @@ The vending machine closeup - Necip Duman @necipdumanphoto, Pexels
 The blue heart spraypainted - Cottonbro Studios @cottonbro, Pexels
 The shoes on the patio - Julie Aagaard @julie.aagaard, Pexels
 The map and coffee cup - Uğurcan Özmen @ugurcannozmen, Pexels
+</p>
 
 <!-- Self reflection -->
 
-Start date: 1/28
+<p>Start date: 1/28
 Finish date: 1/30
 Hardest section(s): The landing container with the 4 pictures, the quote section, and the call to action section in terms of remembering how to use flexbox + CSS to make them work. I think I got it down though!
 
@@ -27,4 +28,4 @@ Next, I had to style the quote section. Honestly, I might have just used padding
 
 Finally, the call to action section. This part was actually the trickiest, because it's essentially two parts: the actual call to action banner against its overall container. On top of that, the parts inside the banner was its own challenge as I had to group both the paragraph element and anchor element inside a div to get the intended effect as shown in the design image.
 
-I am proud though, because I managed to finish this project and make it semi-responsive as well! Thank you for reading, good luck to anyone on the Foundations path.
+I am proud though, because I managed to finish this project and make it semi-responsive as well! Thank you for reading, good luck to anyone on the Foundations path.</p>
